@@ -1,4 +1,4 @@
-A simple eample of tic tac toe game built using react & next.js
+A simple example of tic tac toe game built using react & next.js
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
